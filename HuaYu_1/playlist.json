@@ -1,0 +1,11 @@
+{
+  "name": "music",
+  "updatedAt": "2026-06-25T15:27:35.082Z",
+  "tracks": [
+    {
+      "title": "十年",
+      "artist": "Unknown Artist",
+      "url": "music/十年.mp3"
+    }
+  ]
+}

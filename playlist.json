@@ -1,0 +1,12 @@
+{
+  "name": "Music",
+  "updatedAt": "2026-06-25T15:26:47.551Z",
+  "tracks": [
+    {
+      "title": "十年",
+      "artist": "Unknown Artist",
+      "url": "Music/HuaYu_1/music/十年.mp3",
+      "lrc": "Music/HuaYu_1/lrc/十年.lrc"
+    }
+  ]
+}
