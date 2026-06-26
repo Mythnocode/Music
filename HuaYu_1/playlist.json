@@ -1,19 +1,20 @@
 {
   "name": "HuaYu_1",
-  "updatedAt": "2026-06-26T06:59:45.045Z",
+  "updatedAt": "2026-06-26T13:55:45.453Z",
   "tracks": [
     {
       "title": "十年",
       "artist": "陈奕迅",
-      "url": "file:///D:/Music/github/Music/HuaYu_1/music/%E5%8D%81%E5%B9%B4-%E9%99%88%E5%A5%95%E8%BF%85.mp3",
-      "lrc": "file:///D:/Music/github/Music/HuaYu_1/lrc/%E5%8D%81%E5%B9%B4-%E9%99%88%E5%A5%95%E8%BF%85.lrc",
-      "cover": "file:///D:/Music/github/Music/HuaYu_1/img/%E5%8D%81%E5%B9%B4-%E9%99%88%E5%A5%95%E8%BF%85.jpg"
+      "url": "music/十年-陈奕迅.mp3",
+      "lrc": "lrc/十年-陈奕迅.lrc",
+      "cover": "img/十年-陈奕迅.jpg"
     },
     {
       "title": "勇气",
       "artist": "梁静茹",
-      "url": "file:///D:/Music/github/Music/HuaYu_1/music/%E5%8B%87%E6%B0%94-%E6%A2%81%E9%9D%99%E8%8C%B9..mp3",
-      "lrc": "file:///D:/Music/github/Music/HuaYu_1/lrc/%E5%8B%87%E6%B0%94-%E6%A2%81%E9%9D%99%E8%8C%B9..lrc"
+      "url": "music/勇气-梁静茹..mp3",
+      "lrc": "lrc/勇气-梁静茹..lrc",
+      "cover": "img/勇气-梁静茹..jpg"
     }
   ]
 }
